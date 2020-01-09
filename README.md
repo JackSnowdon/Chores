@@ -1,8 +1,7 @@
 # Chores - Spencer
 
-[Resume]
 
-Using a Start Bootstrap form as a template I am creating a website for Stratford U[on Avon cleaning business, "Chores"]
+Using a Start Bootstrap form as a template I am creating a website for Stratford Uon Avon cleaning business, "Chores"
 
 
 
